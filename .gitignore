@@ -1,0 +1,57 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+env/
+.venv/
+saroj/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment Variables
+.env
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# OpenCV Generated Files
+Screenshots/
+*.png
+*.jpg
+*.jpeg
+
+# Logs
+*.log
+
+# Build
+build/
+dist/
+*.spec
+
+# Virtual Environment
+saroj/
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Screenshots
+Screenshots/
+
+# VS Code
+.vscode/

@@ -1,0 +1,6 @@
+opencv-python==4.11.0.86
+cvzone
+mediapipe==0.10.21
+numpy
+dataclasses
+future
